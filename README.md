@@ -27,10 +27,10 @@ List of commands for the MemeCLI:
 ## Meme Types
 
 Type 1:  
-<img src='memes/exported/example.png' style='height: 30%'>
+<img src='memes/exported/example.png' style='width: 30%'>
 
 Type 2:  
-<img src='memes/exported/example2.png' style='height: 30%'>
+<img src='memes/exported/example2.png' style='width: 30%'>
 
 Type 3:  
-<img src='memes/exported/example3.png' style='height: 30%'>
+<img src='memes/exported/example3.png' style='width: 30%'>
