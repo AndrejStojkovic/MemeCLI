@@ -33,4 +33,4 @@ Note: Avoid using pictures with 4k or a really small resolution. Needs fixing.
 
 ## Known bugs
 - Long text goes outside of image (doesn't wrap).
-- Font size is not equal in all images.
+- Font size is not equal in all image, same for padding.
