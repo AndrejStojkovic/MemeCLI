@@ -27,15 +27,21 @@ Note: Avoid using pictures with 4k or a really small resolution. Needs fixing.
 
 ## Meme Types
 
-<div style='float: left'>
-  Type 1:  
-  <img src='memes/exported/example.png' style='width: 30%'>
+<div>
+  <div style='display: inline-block'>
+    Type 1:  
+    <img src='memes/exported/example.png' style='width: 30%'>
+  </div>
 
-  Type 2:  
-  <img src='memes/exported/example2.png' style='width: 30%'>
+  <div style='display: inline-block'>
+    Type 2:  
+    <img src='memes/exported/example2.png' style='width: 30%'>
+  </div>
 
-  Type 3:  
-  <img src='memes/exported/example3.png' style='width: 30%'>
+  <div style='display: inline-block'>
+    Type 3:  
+    <img src='memes/exported/example3.png' style='width: 30%'>
+  </div>
 </div>
 
 ## Known bugs
