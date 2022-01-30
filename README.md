@@ -15,3 +15,22 @@ List of commands for the MemeCLI:
 -s STRING --string STRING   Text/String to add to the meme.
 -f FONT, --font FONT        Choose the font you want to use for the meme.
 ```
+
+1. Put image in 'memes' folder
+2. Use command line: `python main.py -i [input file name] -o [output file name] -t [meme type] -s [text/string to add to the image]'
+3. Generated meme will appear in 'memes/exported' folder
+
+### Custom fonts (optional)
+- Put font in 'fonts' folder
+- Use the command line above and add: `-f [font name].ttf`
+
+## Meme Types
+
+Type 1:
+<img src='memes/exported/example.png' style='height: 50%'>
+
+Type 2:
+<img src='memes/exported/example2.png' style='height: 50%'>
+
+Type 3:
+<img src='memes/exported/example3.png' style='height: 50%'>
