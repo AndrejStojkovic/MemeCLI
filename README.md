@@ -29,7 +29,7 @@ Note: Avoid using pictures with 4k or a really small resolution. Needs fixing.
 
 | Type 1 	| Type 2 	| Type 3 	|
 |--------	|--------	|--------	|
-| <img src='memes/exported/example.png' style='width: 30%'>   	| <img src='memes/exported/example2.png' style='width: 30%'>   	| <img src='memes/exported/example3.png' style='width: 30%'>   	|
+| <img src='memes/exported/example.png'>   	| <img src='memes/exported/example2.png'>   	| <img src='memes/exported/example3.png'>   	|
 
 ## Known bugs
 - Long text goes outside of image (doesn't wrap).
