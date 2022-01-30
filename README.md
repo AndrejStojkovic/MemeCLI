@@ -6,7 +6,7 @@ A CLI (Command Line Interface) based Meme Generator made in Python.
 - `pip install pillow'
 
 ## Usage
-List of commands for the CalculatorCLI:
+List of commands for the MemeCLI:
 ```
 -h, --help                  Show help message
 -i INPUT, --input INPUT     Input file to generate meme from.
