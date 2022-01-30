@@ -19,6 +19,7 @@ List of commands for the MemeCLI:
 1. Put image in 'memes' folder
 2. Use command line: `python main.py -i [input file name] -o [output file name] -t [meme type] -s [text/string to add to the image]`
 3. Generated meme will appear in 'memes/exported' folder
+Note: Avoid using pictures with 4k or a really small resolution. Needs fixing.
 
 ### Custom fonts (optional)
 - Put font in 'fonts' folder
@@ -34,3 +35,7 @@ Type 2:
 
 Type 3:  
 <img src='memes/exported/example3.png' style='width: 30%'>
+
+## Known bugs
+- Long text goes outside of image (doesn't wrap).
+- Font size is not equal in all images.
