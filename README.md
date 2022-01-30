@@ -27,14 +27,16 @@ Note: Avoid using pictures with 4k or a really small resolution. Needs fixing.
 
 ## Meme Types
 
-Type 1:  
-<img src='memes/exported/example.png' style='width: 30%'>
+<div style='float: left'>
+  Type 1:  
+  <img src='memes/exported/example.png' style='width: 30%'>
 
-Type 2:  
-<img src='memes/exported/example2.png' style='width: 30%'>
+  Type 2:  
+  <img src='memes/exported/example2.png' style='width: 30%'>
 
-Type 3:  
-<img src='memes/exported/example3.png' style='width: 30%'>
+  Type 3:  
+  <img src='memes/exported/example3.png' style='width: 30%'>
+</div>
 
 ## Known bugs
 - Long text goes outside of image (doesn't wrap).
