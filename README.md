@@ -3,7 +3,7 @@ A CLI (Command Line Interface) based Meme Generator made in Python.
 
 ## Prerequisites
 - [Python](https://www.python.org/)
-- `pip install pillow'
+- `pip install pillow`
 
 ## Usage
 List of commands for the MemeCLI:
